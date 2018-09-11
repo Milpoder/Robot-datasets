@@ -1,0 +1,26 @@
+<annotation>
+	<folder>files</folder>
+	<filename>000198.jpg</filename>
+	<path>/Volumes/Public/Pedro/universidad/Computer Vision Master/M9.Master Thesis/tests/files/000198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>68</ymin>
+			<xmax>148</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

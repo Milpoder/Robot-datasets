@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Nueva carpeta</folder>
+	<filename>000001.jpg</filename>
+	<path>C:\Users\Laura\Desktop\Nueva carpeta\000001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>16</ymin>
+			<xmax>218</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>115</ymin>
+			<xmax>166</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

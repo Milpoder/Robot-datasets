@@ -1,0 +1,38 @@
+<annotation>
+	<folder>untitled folder</folder>
+	<filename>000162.jpg</filename>
+	<path>/Users/Pedro/Desktop/untitled folder/000162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>37</ymin>
+			<xmax>160</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>15</ymin>
+			<xmax>282</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
